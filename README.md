@@ -28,6 +28,6 @@ Validasi bukti menggunakan pencarian teks sederhana; hasil yang belum terverifik
 
 ## Demo dan teknologi
 
-Lihat [demo_rapi.ipynb](demo_rapi.ipynb) untuk alur lengkap beserta penjelasan tiap tahap. Jalankan berurutan menggunakan environment proyek dan `OPENAI_API_KEY` yang valid; tahap LLM memanggil API OpenAI.
+Lihat [demo_rapi.ipynb](https://colab.research.google.com/drive/1rdYSoAoiEUS_3dKR--oa0V8oDMvYHJ8i?usp=sharing) untuk alur lengkap beserta penjelasan tiap tahap. Jalankan berurutan menggunakan environment proyek dan `OPENAI_API_KEY` yang valid; tahap LLM memanggil API OpenAI.
 
 **Teknologi:** Python, OpenAI API, Pydantic, PyMuPDF, dan pandas.
