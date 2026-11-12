@@ -1,0 +1,48 @@
+{
+  "note": "All five CVs are fictional. Phone, email, street address, dates of birth and IDs are synthetic examples. IDs starting with zeros are intentionally invalid.",
+  "privacy_fields_to_mask": [
+    "phone",
+    "email",
+    "full_street_address",
+    "RT/RW",
+    "date_of_birth (where present)",
+    "national_id (where present)",
+    "emergency_contact (where present)"
+  ],
+  "fields_usually_preserved": [
+    "education",
+    "skills",
+    "experience",
+    "projects",
+    "institution",
+    "organization",
+    "city_when_job_relevant"
+  ],
+  "cases": [
+    {
+      "filename": "CV_01_Nadia_Putri_AI_Engineer.pdf",
+      "candidate": "NADIA PUTRI MAHARANI",
+      "focus": "AI Engineer strong evidence"
+    },
+    {
+      "filename": "CV_02_Rizky_Pratama_Frontend.pdf",
+      "candidate": "RIZKY ADITYA PRATAMA",
+      "focus": "Frontend experience with limited backend evidence"
+    },
+    {
+      "filename": "CV_03_Siti_Rahma_Data_Analyst.pdf",
+      "candidate": "SITI RAHMAWATI",
+      "focus": "Data analyst skill set, non-AI role"
+    },
+    {
+      "filename": "CV_04_Bima_Santoso_Backend.pdf",
+      "candidate": "BIMA SANTOSO",
+      "focus": "Backend developer skill set"
+    },
+    {
+      "filename": "CV_05_Alya_Fauziah_Ambiguous.pdf",
+      "candidate": "ALYA FAUZIAH",
+      "focus": "Ambiguous work duration and missing evidence"
+    }
+  ]
+}

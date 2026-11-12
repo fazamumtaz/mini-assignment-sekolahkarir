@@ -1,0 +1,17 @@
+
+{
+  "job_id": "JOB-001",
+  "title": "Junior AI Engineer",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "REST APIs"
+  ],
+  "preferred_skills": [
+    "FastAPI",
+    "RAG",
+    "Docker"
+  ],
+  "min_experience_years": 0,
+  "requirements_confirmed": true
+}
